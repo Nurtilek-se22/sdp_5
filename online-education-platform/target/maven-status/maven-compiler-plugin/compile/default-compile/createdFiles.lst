@@ -1,0 +1,12 @@
+auth/AuthenticationSystem.class
+students/Grade.class
+web/WebServer$StaticFileHandler.class
+web/WebServer$ApiHandler.class
+students/Student.class
+courses/CourseFactory.class
+web/WebServer.class
+facade/EducationPlatformFacade.class
+EducationPlatformDemo.class
+users/User.class
+courses/Course.class
+users/Teacher.class

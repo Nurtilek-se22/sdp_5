@@ -1,0 +1,10 @@
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/EducationPlatformDemo.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/auth/AuthenticationSystem.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/courses/Course.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/courses/CourseFactory.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/facade/EducationPlatformFacade.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/students/Grade.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/students/Student.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/users/Teacher.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/users/User.java
+/Users/nurtileksergey/IdeaProjects/online-education-platform/src/main/java/web/WebServer.java
